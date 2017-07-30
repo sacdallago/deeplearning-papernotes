@@ -68,6 +68,7 @@
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
+- Geometric deep learning: going beyond Euclidean data [[arXiv](https://arxiv.org/abs/1611.08097)]
 
 #### 2017-03
 
